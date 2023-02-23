@@ -1,6 +1,6 @@
 # Superstore-SQL-Project
 
-Mini SQL Project on Superstore Dataset
+Mini SQL Project on Superstore Dataset (MySQL Workbench)
 + **Dataset:** https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset
 + **Summary**
   + I complete a purchasing source analysis to understand which shopping channels customers are purchasing from (website, catalog, in-store). I also analyze for marketing campaign optimization by understanding the rate that which various customer segments accept the previous campaign. 
